@@ -1,0 +1,2 @@
+C:/dev/flutter/layouts/clothing_store/android/app/.cxx/RelWithDebInfo/371k1d6a/x86/CMakeFiles/edit_cache.dir
+C:/dev/flutter/layouts/clothing_store/android/app/.cxx/RelWithDebInfo/371k1d6a/x86/CMakeFiles/rebuild_cache.dir

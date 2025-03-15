@@ -1,16 +1,13 @@
-# clothing_store
+# Верстка макета [Mobile eCommerce Clothing Store App Design](https://www.figma.com/community/file/1169625825293818878) by [@itsmebfg](https://www.figma.com/@itsmebfg) на Flutter
+#### Немного о многом
 
-A new Flutter project.
+- Всего три экрана
+- Практически никаких взаимодействий с элементами интерфейса, кроме тех, что нужны для перехода между страницами, только ui
+- На домашнем экране список товаров реализован с помощью staggered_grid_view
 
-## Getting Started
+#### Скриншоты
+<img src="/assets/screenshots/home_screen.jpg" alt="home_screen" width="200"/> <img src="/assets/screenshots/detail_screen.jpg" alt="detail_screen" width="200"/> <img src="/assets/screenshots/checkout_screen.jpg" alt="checkout_screen" width="200"/>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Используемые библиотеки
+- [**flutter_svg**](https://pub.dev/packages/flutter_svg)
+- [**flutter_staggered_grid_view**](https://pub.dev/packages/flutter_staggered_grid_view)
